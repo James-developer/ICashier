@@ -10,20 +10,13 @@ public class KitchenProduct implements Product {
 		
 		storeProducts = new ArrayList<StoreProduct>();
 		
-		addProduct("Microwave",89.99,24);
-		addProduct("Oven",129.99,12);
-		addProduct("Glass Set",9.99,211);
-		addProduct("Table Set",69.99,34);
-		addProduct("Shelter",29.99,54);
-		addProduct("Plate Set",19.99,64);
-		addProduct("Spoon Set",9.99,47);
-		addProduct("Rug Small",9.99,241);
-		addProduct("Rug Medium",19.99,21);
-		addProduct("Rug Large",29.99,22);
-		addProduct("Pan Set",39.99,36);
-		addProduct("Tea-Pot Set",19.99,12);
-		addProduct("Tefal",29.99,45);
-		addProduct("Mixer",69.99,78);
+		addProduct("Microwave",89.00,24);
+		addProduct("Oven",129.00,12);
+		addProduct("Glass Set",9.00,211);
+		addProduct("Table Set",69.00,34);
+		addProduct("Shelter",29.00,54);
+		addProduct("Plate Set",19.00,64);
+	
 	}
 	
 	
